@@ -1,0 +1,7 @@
+vm:
+  rpm:
+    build:
+    - rpm_spec/qubes-tunnel.spec
+  deb:
+    build:
+    - debian
