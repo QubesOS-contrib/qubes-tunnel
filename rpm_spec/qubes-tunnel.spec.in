@@ -1,6 +1,6 @@
 Name:	qubes-tunnel
 Version:	@VERSION@
-Release:	1%{?dist}
+Release:	@REL@%{?dist}
 Summary:	Qubes service for simple, secure VPN tunnels.
 
 Group:		Qubes
